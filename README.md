@@ -2,4 +2,4 @@
 collection of deep learning projects
 
 # Horse or Human
-Uses the Tensorflow library to diffrientiate between images of horses and humans
+Uses the Tensorflow library to differentiate between images of horses and humans
